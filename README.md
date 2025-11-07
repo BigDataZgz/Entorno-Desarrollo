@@ -9,3 +9,4 @@
 - Live Preview
 - Material Icon Theme
 - Prettier - Code formatter
+- Otras
